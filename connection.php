@@ -24,4 +24,3 @@ class Database{
 $pdo = new Database();
 
 
-?>
