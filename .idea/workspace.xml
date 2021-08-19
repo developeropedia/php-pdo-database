@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa9b711-2049-4ef1-9ce1-892313d030e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/connection.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629381473978</updated>
-      <workItem from="1629381475275" duration="2045000" />
+      <workItem from="1629381475275" duration="2348000" />
     </task>
     <servers />
   </component>
